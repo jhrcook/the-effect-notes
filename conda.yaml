@@ -1,0 +1,37 @@
+name: the-effect-notes
+channels:
+  - conda-forge
+  - nvidia
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10.*
+  - aesara
+  - arviz
+  - black
+  - flake8
+  - flake8-bugbear
+  - flake8-builtins
+  - flake8-comprehensions
+  - ipython
+  - isort
+  - jax
+  - jaxlib
+  - jupyterlab
+  - jupyterlab_code_formatter
+  - jupyterlab-spellchecker
+  - matplotlib
+  - mypy
+  - nbconvert
+  - nbformat
+  - nbqa
+  - numpy
+  - numpyro
+  - pandas
+  - pip
+  - pydantic
+  - pyjanitor
+  - pymc
+  - seaborn
+  - watermark
+  - xarray
