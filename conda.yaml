@@ -35,3 +35,5 @@ dependencies:
   - seaborn
   - watermark
   - xarray
+  - pip:
+    - causaldata
