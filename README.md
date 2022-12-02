@@ -16,3 +16,4 @@ My notes:
 | 6   | Causal Diagrams                     | [notebook](notes/06_causal-diagrams.ipynb)                     | [notebook](notes/06_causal-diagrams.md)                     |
 | 7   | Drawing Causal Diagrams             | [notebook](notes/07_drawing-causal-diagrams.ipynb)             | [notebook](notes/07_drawing-causal-diagrams.md)             |
 | 8   | Causal Paths and Closing Back Doors | [notebook](notes/08_causal-paths-and-closing-back-doors.ipynb) | [notebook](notes/08_causal-paths-and-closing-back-doors.md) |
+| 9   | Finding Front Doors                 | [notebook](notes/09_finding-front-doors.ipynb)                 | [notebook](notes/09_finding-front-doors.md)                 |
