@@ -4,7 +4,6 @@ online book: [*The Effect: An Introduction to Research Design and Causality*](ht
 
 My notes:
 
-
 | Ch. | Title                               | Jupyter                                                        | Markdown                                                    |
 |----:|:------------------------------------|:---------------------------------------------------------------|:------------------------------------------------------------|
 | 0   | Introduction                        | [notebook](notes/00_introduction.ipynb)                        | [notebook](notes/00_introduction.md)                        |
@@ -17,3 +16,4 @@ My notes:
 | 7   | Drawing Causal Diagrams             | [notebook](notes/07_drawing-causal-diagrams.ipynb)             | [notebook](notes/07_drawing-causal-diagrams.md)             |
 | 8   | Causal Paths and Closing Back Doors | [notebook](notes/08_causal-paths-and-closing-back-doors.ipynb) | [notebook](notes/08_causal-paths-and-closing-back-doors.md) |
 | 9   | Finding Front Doors                 | [notebook](notes/09_finding-front-doors.ipynb)                 | [notebook](notes/09_finding-front-doors.md)                 |
+| 10  | Treatment Effects                   | [notebook](notes/10_treatment-effects.ipynb)                   | [notebook](notes/10_treatment-effects.md)                   |
