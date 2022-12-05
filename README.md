@@ -17,3 +17,4 @@ My notes:
 | 8   | Causal Paths and Closing Back Doors | [notebook](notes/08_causal-paths-and-closing-back-doors.ipynb) | [notebook](notes/08_causal-paths-and-closing-back-doors.md) |
 | 9   | Finding Front Doors                 | [notebook](notes/09_finding-front-doors.ipynb)                 | [notebook](notes/09_finding-front-doors.md)                 |
 | 10  | Treatment Effects                   | [notebook](notes/10_treatment-effects.ipynb)                   | [notebook](notes/10_treatment-effects.md)                   |
+| 11  | Causality with Less Modeling        | [notebook](notes/11_causality-with-less-modeling.ipynb)        | [notebook](notes/11_causality-with-less-modeling.md)        |
