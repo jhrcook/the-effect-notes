@@ -18,3 +18,4 @@ My notes:
 | 9   | Finding Front Doors                 | [notebook](notes/09_finding-front-doors.ipynb)                 | [notebook](notes/09_finding-front-doors.md)                 |
 | 10  | Treatment Effects                   | [notebook](notes/10_treatment-effects.ipynb)                   | [notebook](notes/10_treatment-effects.md)                   |
 | 11  | Causality with Less Modeling        | [notebook](notes/11_causality-with-less-modeling.ipynb)        | [notebook](notes/11_causality-with-less-modeling.md)        |
+| 12  | Opening the Toolbox                 | [notebook](notes/12_opening-the-toolbox.ipynb)                 | [notebook](notes/12_opening-the-toolbox.md)                 |
